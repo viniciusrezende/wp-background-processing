@@ -1,7 +1,7 @@
 {
   "name": "a5hleyrich/wp-background-processing",
   "description": "WP Background Processing can be used to fire off non-blocking asynchronous requests or as a background processing tool, allowing you to queue tasks.",
-  "type": "library",
+  "type": "wordpress-plugin",
   "require": {
     "php": ">=5.2"
   },
